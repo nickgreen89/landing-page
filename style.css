@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.hero {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-family: Roboto;
+
+}
