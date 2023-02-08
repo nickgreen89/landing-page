@@ -1,7 +1,9 @@
 body {
    display: flex;
    flex-direction: column;
-
+   font-family: 'Roboto', arial;
+   margin: 0;
+   padding: 0;
 }
 
 /*hero section*/
@@ -24,7 +26,6 @@ body {
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
-    font-family: Roboto;
     font-weight: bold;
     align-self: left;
 }
@@ -46,9 +47,7 @@ a {
 }
 
 .main-text {
-    width: 400px;
-    font-family: Roboto Arial;
-    
+    width: 400px;    
 }
 
 .awesome {
